@@ -43,7 +43,7 @@ draw
 prototype
 sp
 ep
-coords  
+coords
  */
 
 console.log(Rect.prototype);
